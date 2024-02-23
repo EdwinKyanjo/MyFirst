@@ -1,3 +1,3 @@
 console ["hello"];
 
-let name = "Paul"
+let name = "Paul Balitema"
